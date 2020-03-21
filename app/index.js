@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Editor as Editor1 } from 'editor-1';
+import { Editor as Editor1 } from 'editor';
 // import { Editor as Editor2 } from 'editor-2';
 // import { Editor as Editor3 } from 'editor-3';
 // import { Editor as Editor4 } from 'editor-4';
